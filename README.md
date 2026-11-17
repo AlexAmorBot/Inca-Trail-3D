@@ -1,6 +1,6 @@
 # Inca Trail 3D
 
-**Live site:** https://alexamorbot.github.io/inca-trail-3d/
+**Live site:** https://alexamorbot.github.io/Inca-Trail-3D/
 
 A GPS-accurate 3D walk of the classic Inca Trail, from the Km 82 trailhead at Piskacucho to Machu Picchu. The route, elevation, and stop photos come from a 2012 trek recorded on a Garmin handheld. The site is static HTML, CSS, and JavaScript. GitHub Pages serves it. There is no build step.
 
@@ -8,27 +8,27 @@ A GPS-accurate 3D walk of the classic Inca Trail, from the Km 82 trailhead at Pi
 
 ## See it
 
-- [Enter the 3D tour](https://alexamorbot.github.io/inca-trail-3d/3dtour/)
-- [How the tour was made](https://alexamorbot.github.io/inca-trail-3d/how-tour-was-made/)
-- [How to reserve a permit](https://alexamorbot.github.io/inca-trail-3d/how-to-reserve-inca-trail/)
-- [Terms](https://alexamorbot.github.io/inca-trail-3d/terms/)
-- [GPS route download (KMZ)](https://alexamorbot.github.io/inca-trail-3d/data/Inca_Trail_GPS_Route.kmz)
+- [Enter the 3D tour](https://alexamorbot.github.io/Inca-Trail-3D/3dtour/)
+- [How the tour was made](https://alexamorbot.github.io/Inca-Trail-3D/how-tour-was-made/)
+- [How to reserve a permit](https://alexamorbot.github.io/Inca-Trail-3D/how-to-reserve-inca-trail/)
+- [Terms](https://alexamorbot.github.io/Inca-Trail-3D/terms/)
+- [GPS route download (KMZ)](https://alexamorbot.github.io/Inca-Trail-3D/data/Inca_Trail_GPS_Route.kmz)
 
 ### Stop guides
 
-- [Piskacucho (Km 82)](https://alexamorbot.github.io/inca-trail-3d/stops/piskacucho/)
-- [Patallaqta](https://alexamorbot.github.io/inca-trail-3d/stops/patallaqta/)
-- [Camp 1, Wayllabamba](https://alexamorbot.github.io/inca-trail-3d/stops/camp-1-wayllabamba/)
-- [Dead Woman's Pass](https://alexamorbot.github.io/inca-trail-3d/stops/dead-womans-pass/)
-- [Camp 2, Pakaymayu](https://alexamorbot.github.io/inca-trail-3d/stops/camp-2-pakaymayu/)
-- [Runkurakay](https://alexamorbot.github.io/inca-trail-3d/stops/runkurakay/)
-- [Runkurakay Pass](https://alexamorbot.github.io/inca-trail-3d/stops/runkurakay-pass/)
-- [Sayacmarca](https://alexamorbot.github.io/inca-trail-3d/stops/sayacmarca/)
-- [Phuyupatamarca](https://alexamorbot.github.io/inca-trail-3d/stops/phuyupatamarca/)
-- [Wiñay Wayna](https://alexamorbot.github.io/inca-trail-3d/stops/winay-wayna/)
-- [Sun Gate](https://alexamorbot.github.io/inca-trail-3d/stops/sun-gate/)
-- [Machu Picchu](https://alexamorbot.github.io/inca-trail-3d/stops/machu-picchu/)
-- [Huayna Picchu](https://alexamorbot.github.io/inca-trail-3d/stops/huayna-picchu/)
+- [Piskacucho (Km 82)](https://alexamorbot.github.io/Inca-Trail-3D/stops/piskacucho/)
+- [Patallaqta](https://alexamorbot.github.io/Inca-Trail-3D/stops/patallaqta/)
+- [Camp 1, Wayllabamba](https://alexamorbot.github.io/Inca-Trail-3D/stops/camp-1-wayllabamba/)
+- [Dead Woman's Pass](https://alexamorbot.github.io/Inca-Trail-3D/stops/dead-womans-pass/)
+- [Camp 2, Pakaymayu](https://alexamorbot.github.io/Inca-Trail-3D/stops/camp-2-pakaymayu/)
+- [Runkurakay](https://alexamorbot.github.io/Inca-Trail-3D/stops/runkurakay/)
+- [Runkurakay Pass](https://alexamorbot.github.io/Inca-Trail-3D/stops/runkurakay-pass/)
+- [Sayacmarca](https://alexamorbot.github.io/Inca-Trail-3D/stops/sayacmarca/)
+- [Phuyupatamarca](https://alexamorbot.github.io/Inca-Trail-3D/stops/phuyupatamarca/)
+- [Wiñay Wayna](https://alexamorbot.github.io/Inca-Trail-3D/stops/winay-wayna/)
+- [Sun Gate](https://alexamorbot.github.io/Inca-Trail-3D/stops/sun-gate/)
+- [Machu Picchu](https://alexamorbot.github.io/Inca-Trail-3D/stops/machu-picchu/)
+- [Huayna Picchu](https://alexamorbot.github.io/Inca-Trail-3D/stops/huayna-picchu/)
 
 ## What the tour does
 

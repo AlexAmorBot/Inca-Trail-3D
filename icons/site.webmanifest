@@ -2,7 +2,7 @@
     "name": "Inca Trail 3D Trek",
     "description": "Animated 3D Inca Trail Hike from the start to Machu Picchu. Experience the Inca Trail in Peru from above.",
     "short_name": "Inca Trail 3D Tour",
-    "start_url": "https://alexamorbot.github.io/inca-trail-3d/3dtour/",
+    "start_url": "https://alexamorbot.github.io/Inca-Trail-3D/3dtour/",
     "icons": [
         {
             "src": "./android-chrome-192x192.png",
