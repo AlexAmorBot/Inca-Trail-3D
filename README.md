@@ -36,7 +36,7 @@ The tour page is a Mapbox GL JS flyover. Scrolling moves the camera along the re
 
 - Mapbox GL JS 2.7.0, loaded from the Mapbox CDN
 - Turf.js for the route geometry
-- Terrain style: `mapbox://styles/noufelghayati/cl3m1xwi6006z15ld00w5tmt8`
+- Terrain style: `3dtour/terrain-style.json`, a local satellite style based on Mapbox Satellite Streets
 - Overview style: `mapbox://styles/mapbox/dark-v10`
 - Stop narration in `3dtour/audio/`
 - Stop photos in `3dtour/img/`

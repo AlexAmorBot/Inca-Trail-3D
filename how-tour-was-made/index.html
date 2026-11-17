@@ -155,8 +155,7 @@
             <div class="card" style="text-align: left; margin-top: 2rem;">
                 <h3>2.2 “Steps” notion and how did we find the best view angle to each waypoint:</h3>
                 <p>Each waypoint was attributed a step number, Piskacucho was given step number 1, Patallacta was given step number 2 etc.. So we could easily start writing conditions as follows: If user scrolls down and step variable is 0, then the map needs to <a href="https://docs.mapbox.com/mapbox-gl-js/api/map/#map" target="_blank" style="color: var(--primary);">flyTo</a> step number 1 which is Piskacucho. Once the map stops moving (meaning that user reached Piskacucho) the step variable needs to be changed to 1. We used for this <a href="https://docs.mapbox.com/mapbox-gl-js/api/map/#map.event:moveend" target="_blank" style="color: var(--primary);">map.on('moveend')</a> event that fires once a move action stops. We also needed to disable the scrolling event listener once it has been fired, then enable it again once the move action stops in order to prevent flying instantly to two or more waypoints.</p>
-                <p>Also, we used <a href="https://docs.mapbox.com/mapbox-gl-js/api/map/#map.event:move" target="_blank" style="color: var(--primary);">map.on('move')</a> event listener to fire a console.log containing actual map moving info such as zoom, bearing, pitch and centered coordinates. This was done in order to get these data while moving manually around waypoints finding the best view angle, once done, we could easily get all info in the Browser developer console log.</p>
-                <p>We disabled this developer function once we were done, we also disabled map interaction<sup>[13]</sup> to prevent panning and zooming by user.</p>
+                <p>Camera angles were set by recording the center, zoom, bearing, and pitch that framed each waypoint. Map interaction is disabled<sup>[13]</sup> so visitors follow that path instead of panning on their own.</p>
                 
                 <div style="background: #f9f9f9; padding: 1rem; margin-top: 1rem; font-size: 0.9rem; border-left: 3px solid #ccc;">
                     <strong>13.</strong> https://docs.mapbox.com/mapbox-gl-js/example/interactive-false/
@@ -179,7 +178,7 @@
 
 <section class="section-alt">
         <div class="container">
-            <h2>Special Thanks To</h2>
+            <h2>About</h2>
             
             <div class="special-thanks-wrapper">
                 

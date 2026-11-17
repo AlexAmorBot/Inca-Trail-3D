@@ -21,7 +21,7 @@
 <link rel="preconnect" href="https://unpkg.com">
 <link rel="preconnect" href="https://events.mapbox.com">
 <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">
-<link rel="stylesheet" href="progres-bar.css">
+<link rel="stylesheet" href="progress-bar.css">
 <link rel="stylesheet" href="jconfirm.css">
 <link rel="stylesheet" href="tour-ux.css">
 <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>
@@ -1085,7 +1085,7 @@ function setAnchorOnUrl() {
             bearing: -108.209369,
             pitch: 40.906658,
             zoom: 11.269980,
-            style: 'mapbox://styles/noufelghayati/cl3m1xwi6006z15ld00w5tmt8',
+            style: 'terrain-style.json',
             interactive: false
         });
         map.on('load', function () { map.resize(); });
@@ -2807,12 +2807,6 @@ function setAnchorOnUrl() {
 
         buttonup.onclick = buttonupfunction;
         buttondown.onclick = buttondownfunction;
-
-        /*
-        map.on('move', function(e){
-            console.log(map.getCenter() + ' ' + map.getBearing() + ' ' + map.getPitch()+ ' ' + map.getZoom())
-        });
-        */
 
         map.on('zoom', () => {
             if (map.getZoom() >= 15) {

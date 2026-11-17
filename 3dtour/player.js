@@ -37,7 +37,6 @@
 
     lunar.className = function (elem, name) {
         elem.attr('class', name);
-        console.log('className', elem);
     };
 
     return lunar;
